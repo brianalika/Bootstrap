@@ -6,7 +6,8 @@
   body {
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
       font-size: small;  
-      background-image: url("../images/signaturebackground.jpg");
+      background-image: url("../images/bluebackground.png");
+      background-size: 1800px; 
   }
 
   @media only screen and (max-width: 980px) {
